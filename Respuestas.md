@@ -1,0 +1,17 @@
+1.Describa los tipos de datos que las empresas analizan 
+en este caso.
+Mercado de libros electronicos 
+
+2. ¿Cómo está mejorando este análisis de datos detallado 
+las operaciones y la toma de decisiones en las empresas 
+descritas en este caso? ¿Qué estrategias de negocios se 
+están apoyando?
+
+
+ 3. ¿Hay desventajas al extraer los datos de los clientes? 
+Explique su respuesta.
+
+si, multas y 
+4. ¿Cómo se siente con el hecho de que sus aerolíneas 
+extraigan sus datos del vuelo? ¿Es esto distinto de las 
+empresas que extraen los datos de sus
